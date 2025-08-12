@@ -125,6 +125,6 @@ python app/run.py
 ## 👨‍💻 Author
 
 **Shivam Patel**  
-Data Science Program  
+DS 5110  
 Khoury College of Computer Sciences  
 Northeastern University  
